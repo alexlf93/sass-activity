@@ -12,4 +12,12 @@ body{
             text-align: center;
         }
     }
+   @mixin lettering{
+    font-size: 100px;
+    text-align: center;
+    font-weight: 20px;
+    font-style: italic;
+   }
+      
+   @include lettering
 }

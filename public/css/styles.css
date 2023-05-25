@@ -10,6 +10,10 @@ main #section-two {
 
 body {
   background-color: burlywood;
+  font-size: 100px;
+  text-align: center;
+  font-weight: 20px;
+  font-style: italic;
 }
 body header {
   color: crimson;
