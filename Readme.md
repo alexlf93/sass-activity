@@ -1,11 +1,14 @@
 //////// Info
 
-This repository was created to teach the basics of sass
+ Repository made to practice with SASS
 
-//////// Install
+//////// Done:
 
-npm install
+Changed the styles by adding mixin:
 
-//////// To do:
-
-Tyr to create a mixin and apply it
+ @mixin lettering{
+    font-size: 100px;
+    text-align: center;
+    font-weight: 20px;
+    font-style: italic;
+   }
